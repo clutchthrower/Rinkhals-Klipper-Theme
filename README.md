@@ -1,4 +1,8 @@
-# Custom Klipper Theme for Anycubic Printers on Rinkhals ![Rinkhals logo](/assets/logo_med.png)
+<p align="center">
+    <img width="48" src="https://github.com/clutchthrower/Rinkhals-Klipper-Theme/blob/33e93ed3d8207d7b52d987ddb0e1b25e05a6cb83/assets/logo_med.png?raw=true" />
+</p>
+
+# Custom Klipper Theme for Anycubic Printers on Rinkhals
 
 Welcome to the custom Klipper theme for Rinkhals! This theme is designed to enhance your customized 3D printer UI with a sleek, user-friendly interface. Dive into a fresh new look with intuitive design and enhanced readability.
 

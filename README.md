@@ -6,7 +6,8 @@ Welcome to the custom Klipper theme for Rinkhals! This theme is designed to enha
 
 Get a glimpse of what your Klipper interface will look like with this custom theme:
 
-** TO DO **
+![Screenshot of Mainsail theme](/assets/mainsail.png)
+![Screenshot of Fluidd theme](/assets/fluidd.png)
 
 ## Features
 

@@ -1,25 +1,18 @@
-# Custom Klipper Theme for Anycubic Kobra Series
+# Custom Klipper Theme for Anycubic Printers on Rinkhals
 
-Welcome to the custom Klipper theme for the Anycubic Kobra series printers! This theme is designed to enhance your 3D printing experience with a sleek, user-friendly interface tailored specifically for the Kobra series. Dive into a fresh new look with intuitive design and enhanced readability.
+Welcome to the custom Klipper theme for Rinkhals! This theme is designed to enhance your customized 3D printer UI with a sleek, user-friendly interface. Dive into a fresh new look with intuitive design and enhanced readability.
 
 ## Preview
 
 Get a glimpse of what your Klipper interface will look like with this custom theme:
 
-![Klipper Kobra Theme Preview 1](https://github.com/OrloDavid/Kustom-Kobra-Klipper/blob/main/.theme/Preview/Klipper_Kobra_Theme_00.png?raw=true)
-
-![Klipper Kobra Theme Preview 2](https://github.com/OrloDavid/Kustom-Kobra-Klipper/blob/main/.theme/Preview/Klipper_Kobra_Theme_01.png?raw=true)
-
-![Klipper Kobra Theme Preview 3](https://github.com/OrloDavid/Kustom-Kobra-Klipper/blob/main/.theme/Preview/Klipper_Kobra_Theme_02.png?raw=true)
-
-![Klipper Kobra Theme Preview 4](https://github.com/OrloDavid/Kustom-Kobra-Klipper/blob/main/.theme/Preview/Klipper_Kobra_Theme_03.png?raw=true)
+** TO DO **
 
 ## Features
 
-- **Custom Aesthetics**: Experience a completely revamped UI that brings a modern touch to your printer's interface.
+- **Custom Aesthetics**: Experience a completely revamped UI that brings a custom touch to your printer's interface.
 - **Enhanced Readability**: Enjoy improved readability with carefully chosen colors and fonts, ensuring you get the information you need at a glance.
 - **Intuitive Design**: Navigate your printer's settings with ease, thanks to a user-friendly layout.
-- **Commented CSS**: Dive into the code with ease! Our CSS files are fully commented, making it simple for you to understand what's being changed and to customize further if needed.
 
 ## Installation
 
@@ -27,11 +20,11 @@ Installing this custom theme is straightforward. Since there's no installer, you
 
 1. **Backup Your Current Theme**: Before proceeding, it's crucial to back up your current theme. Navigate to the location of your Klipper's `.theme` folder and copy it to a safe location.
 
-2. **Download**: Download the '.theme` folder.
+3. **Download**: Download the '.theme` folder.
 
-3. **Replace the Theme Folder**: Follow instructions on the Klipper site to show .theme folder from within the web interface or replace files locally on the host machine @ /home/ 'youruser' /printer_data/config/.theme
+4. **Replace the Theme Folder**: Follow instructions on the Klipper site to show .theme folder from within the web interface or replace files locally on the host machine @ /home/ 'youruser' /printer_data/config/.theme
 
-4. **Refresh Broswer... Maybe**: On the host Linux box I need to refresh the page, on Windows I don't, both are using Microsoft Edge Browser
+5. **Refresh Broswer... Maybe**: On the host Linux box I need to refresh the page, on Windows I don't, both are using Microsoft Edge Browser
 
 ## Customization
 
@@ -43,7 +36,7 @@ Your contributions are welcome! If you have ideas on how to improve this theme o
 
 ## Disclaimer
 
-This theme is provided "as is", without warranty of any kind. While it's been extensively tested on the Anycubic Kobra series, please use it at your own risk.
+This theme is provided "as is", without warranty of any kind. While it's been tested on the Anycubic Kobra 3 V2, please use it at your own risk.
 
 ## Acknowledgements
 

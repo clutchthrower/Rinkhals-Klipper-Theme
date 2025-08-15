@@ -165,10 +165,12 @@
     },
     {
       "name": "Rinkhals",
-      "color": "#c9b306",
+      "color": "#e6ae51",
       "isDark": true,
       "logo": {
         "src": "logo_rinkhals.svg"
+        "dark": "#e6ae51",
+        "light": "#efdfac"
       }
     }
   ]

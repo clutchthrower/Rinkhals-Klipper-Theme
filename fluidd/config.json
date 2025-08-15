@@ -168,7 +168,7 @@
       "color": "#e6ae51",
       "isDark": true,
       "logo": {
-        "src": "logo_rinkhals.svg"
+        "src": "logo_rinkhals.svg",
         "dark": "#e6ae51",
         "light": "#efdfac"
       }
